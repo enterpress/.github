@@ -1,1 +1,3 @@
-# .github
+# EnterPress
+
+Enterprise WordPress plugins
